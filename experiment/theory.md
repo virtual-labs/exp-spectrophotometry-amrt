@@ -80,9 +80,8 @@ $$A=-log_{10}(I/I_0)$$
 
 The relationship between absorbance ( $A$ ) and percent transmittance ( $\%T$ ) is also quantitative and this can be written as:
 
-$T\%T$
 
-$$A=-log( \% T/100)$$
+$A=-log($ % $T/100)$
 
 Percent transmittance is $\frac{I}{I_0}\times 100$
 
