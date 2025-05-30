@@ -2,37 +2,27 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "f all the light passes through a solution without any absorption, then the value of absorbance is _______ and per cent transmittance is _______.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "50 and 50 % respectively",
+        "b": "100 and 100 % respectively",
+        "c": "0 and 100 % respectively",
+        "d": "100 % and 0 respectively"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The units of absorbance and molar absorptivity are ________ and _______ respectively",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Unitless and L mol cm",
+        "b": "L mol<sup>-1</sup> cm<sup>-1</sup> and mol<sup>-1</sup> cm<sup>-1</sup>",
+        "c": "Unitless and L mol<sup>-1</sup> cm<sup>-1</sup>",
+        "d": "L mol cm and L mol<sup>-1</sup> cm<sup>-1</sup>"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
