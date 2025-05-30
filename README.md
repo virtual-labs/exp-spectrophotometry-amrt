@@ -1,19 +1,19 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b> Chemical Sciences
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Physical Chemistry Virtual Lab
+<b> Experiment|     <b> Spectrophotometry
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To apply Beer Lamberts law to solutions and study the effect of concentration on the absorbance of a substance.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Amrita Virtual Labs
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  virtual_labs@am.amrita.edu
 <b> Department |  
 
 ### Contributors List
