@@ -3,7 +3,7 @@
 
  A spectrophotometer is a photometer that can measure the intensity of light as a function of its wavelength. Single beam and double beam are the two major classes of spectrophotometers. Linear range of absorption and spectral bandwidth measurement are the important features of spectrophotometers.
 
-In Single Beam Spectrophotometers, all the light passes through the sample. To measure the intensity of the incident light the sample must be removed so that all the light can pass through. This type of spectrometer is usually less expensive and less complicated. The single beam instruments are optically simpler and more compact, znc can also have a larger dynamic range.
+In Single Beam Spectrophotometers, all the light passes through the sample. To measure the intensity of the incident light the sample must be removed so that all the light can pass through. This type of spectrometer is usually less expensive and less complicated. The single beam instruments are optically simpler and more compact, and can also have a larger dynamic range.
 
 In a Double Beam Spectrophotometer, before it reaches the sample, the light source is split into two separate beams. One beam passes through the sample and the  second one is used for reference. This gives an advantage because the reference reading and sample reading can take place at the same time.
  
