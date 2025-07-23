@@ -49,7 +49,7 @@ Concentration of the given solution =...............................M
 2. Make sure to clean all your working apparatus with chromic acid and distilled water and ensure that all the apparatus are free from water droplets while performing the experiment.
 3. Make sure to calibrate the electronic weigh balance before taking the measurements.
 4. Ensure that the spectrophotometer is working properly.
-5. Ensure that you are handling the cuvette with tissue paper.Never touh it with your hand.
+5. Ensure that you are handling the cuvette with tissue paper.Never touch it with your hand.
 6. Wipe the cuvette with tissue paper before placing the spectrophotometer.
 7. Clean all glassware with soap and distilled water. Once the experiment is completed recap the reagent bottles. Switch off the light and exhaust fan before leaving the lab.
 8. Discard the used gloves in a waste bin.
