@@ -32,13 +32,13 @@
 
 ### Observations and Calculations:
 
-Concentration $c$ of Solution =.............................M
-Absorbance $A$ of known conc. solution =...............................A
-Cuvette length $l$  =.............................cm
-Wavelength $lambda$ at maximum absorbance value = ...................... nm
-Molar absorption coefficient, $\varepsilon $ = ..................... $Mcdm c)
-Absorbance $A$ of given solution = ................A
-Therefore, concentration $c$ = ..............M
+Concentration $c$ of Solution =.............................M<br>
+Absorbance $A$ of known conc. solution =...............................A<br>
+Cuvette length $l$  =.............................cm<br>
+Wavelength $lambda$ at maximum absorbance value = ...................... nm<br>
+Molar absorption coefficient, $\varepsilon$ = ..................... $M^{-1}cm^{-1}$ <br>
+Absorbance $A$ of given solution = ................A<br>
+Therefore, concentration $c$ = ..............M<br>
 
 ## Result
 Concentration of the given solution =...............................M
